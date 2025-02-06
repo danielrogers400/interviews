@@ -12,3 +12,8 @@ codebase. To be prepared for this, please ensure the following:
 preferred method (e.g. Postman, curl, IntelliJ HTTP requests, etc.)
 
 Best of luck!
+
+Helpful cURL commands:
+`curl -i -H "x-ubs-user: john.doe" http://localhost:8080/api/info`
+`curl -i -H "x-ubs-user: john.doe" http://localhost:8080/api/payments`
+`curl -i http://localhost:8080/api/info`
