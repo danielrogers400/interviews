@@ -1,4 +1,11 @@
 # Project Description
+
+---
+
+## Engineering Module
+
+---
+
 A simple Java 21 Spring-based web application which exposes two endpoints:
 
 - localhost:8080/api/info
@@ -17,3 +24,9 @@ Helpful cURL commands:
 `curl -i -H "x-ubs-user: john.doe" http://localhost:8080/api/info`
 `curl -i -H "x-ubs-user: john.doe" http://localhost:8080/api/payments`
 `curl -i http://localhost:8080/api/info`
+
+---
+
+## Automation module Module
+
+---

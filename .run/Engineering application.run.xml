@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Engineering application" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.ubs.interview.engineering.InterviewApplication" />
+    <module name="Engineering" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.ubs.interview.engineering.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
