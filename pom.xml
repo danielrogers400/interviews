@@ -8,11 +8,11 @@
 		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.sample</groupId>
-	<artifactId>interview</artifactId>
+	<groupId>com.ubs.engineering</groupId>
+	<artifactId>code-tests</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>interview</name>
+	<name>code-tests</name>
 	<description>Sample interview project</description>
 	<url/>
 	<licenses>
